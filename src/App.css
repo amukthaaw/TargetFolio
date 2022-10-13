@@ -1,0 +1,23 @@
+/* Home */
+#home {
+    background: rgb(0,0,0);
+    background: linear-gradient(120deg, rgba(0,0,0,1) 39%, rgba(85,85,85,1) 100%);
+    min-height: 500px;
+}
+
+
+/* Form*/
+.form {
+    background: rgb(0,0,0);
+    background: linear-gradient(120deg, rgba(0,0,0,1) 39%, rgba(85,85,85,1) 100%);
+    min-height: 500px;
+}
+
+
+/* Footer */
+.footer {
+    background: rgb(0,0,0);
+    background: linear-gradient(120deg, rgba(0,0,0,1) 39%, rgba(85,85,85,1) 100%);
+    min-height: 500px;
+
+}
